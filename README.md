@@ -1,0 +1,1 @@
+# rabbitMQ_node_example
